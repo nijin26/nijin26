@@ -4,7 +4,7 @@
 ## I'm a Student Developer!!
 
 - 🔭 I am currently Learning Javascript
-- 🌱 I am a GSSOC 2021 Participant🤣
+- 🌱 I am a GSSOC 2021 Participant
 - :globe_with_meridians: Web Developer @ Linkedin Local Kerala & IEEE TKMIT
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn.
