@@ -36,6 +36,8 @@
 <br />
 
 ---
+## ⚡ My Projects
+<!-- PROJECTS START --> <!-- PROJECTS END -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
